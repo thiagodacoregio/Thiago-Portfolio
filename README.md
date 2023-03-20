@@ -1,6 +1,6 @@
 # Portfolio Hello, Welcome to my portfolio project.
 
-![image](https://user-images.githubusercontent.com/124211397/226218787-76b60278-fd9a-4047-b960-b55730a46348.png)
+![image](https://user-images.githubusercontent.com/124211397/226219235-7767dad3-d700-4f19-91c7-86088101725f.png)
 
 ## Tools used:
 
