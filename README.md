@@ -1,6 +1,6 @@
 # Portfolio Hello, Welcome to my portfolio project.
 
-![image](https://thiagodacoregio-portfolio.netlify.app/)
+![image]([https://thiagodacoregio-portfolio.netlify.app/](https://github.com/thiagodacoregio/Thiago-Portfolio/issues/1#issue-1631173055))
 
 ## Tools used:
 
