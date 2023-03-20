@@ -1,4 +1,6 @@
-# Portfolio Hello, Welcome to my portfolio project.
+# Portfolio 
+
+Hello, Welcome to my portfolio project.
 
 ![image](https://user-images.githubusercontent.com/124211397/226219235-7767dad3-d700-4f19-91c7-86088101725f.png)
 
