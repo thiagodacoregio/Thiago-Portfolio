@@ -1,17 +1,19 @@
-# Portfolio Hello, Welcome to my portfolio project.
+# Portfolio 
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+Hello, Welcome to my portfolio project.
+
+![image](https://user-images.githubusercontent.com/124211397/226219235-7767dad3-d700-4f19-91c7-86088101725f.png)
 
 ## Tools used:
 
 * HTML
 
-* css
+* CSS
 
-* flex box
+* Flex box
 
 ## Made by:
 
 ### Thiago Da Coregio
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/thiago-hert-da-cor%C3%A9gio-40a897127/
