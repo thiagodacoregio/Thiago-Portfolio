@@ -93,7 +93,7 @@ body {
 
 .tamanho-imagem {
     border-radius: 1rem;
-    width: 40%;
+    width: 50%;
     height: 35rem;
 }
 
@@ -110,7 +110,6 @@ body {
 .rodape {
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
-    width: 100%;
     padding: 1.5rem;
     text-align: center;
     font-family: var(--font-secundaria);
@@ -120,8 +119,12 @@ body {
 
 @media (max-width:  1100px) {
     
+    body {
+        overflow-x: hidden;
+    }
+
     .cabecalho {
-        padding: 8%;   
+        padding: 8%;  
     }
 
     .cabecalho-menu {
@@ -130,7 +133,6 @@ body {
 
     .apresentacao {
         flex-direction: column-reverse;
-        width: auto;
         padding: 5%;
     }
 
