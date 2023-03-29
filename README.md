@@ -2,7 +2,7 @@
 
 Hello, Welcome to my portfolio project.
 
-![image](https://user-images.githubusercontent.com/124211397/226219235-7767dad3-d700-4f19-91c7-86088101725f.png)
+![image](https://user-images.githubusercontent.com/124211397/228677519-240e8b36-d3e0-43a8-9aa9-4299bf410cff.png)
 
 ## Tools used:
 
