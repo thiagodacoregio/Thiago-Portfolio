@@ -92,8 +92,8 @@ body {
 
 .tamanho-imagem {
     border-radius: 1rem;
-    width: 50%;
-    height: 35rem;
+    width: 30rem;
+    height: 30rem;
 }
 
 .apresentacao-links-subtitulo {
@@ -136,7 +136,7 @@ body {
     }
     
     .tamanho-imagem {
-        height: 10rem;
-        padding: auto;    
+        height: 15rem;
+        width: 15rem;    
     }
 }
