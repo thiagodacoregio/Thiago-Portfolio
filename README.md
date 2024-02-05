@@ -19,3 +19,5 @@ Hello, Welcome to my portfolio project.
 ### :computer:Linkedin: https://www.linkedin.com/in/thiago-hert-da-cor%C3%A9gio-40a897127/
 
 ### :computer:Website: https://thiagodacoregio-portfolio.netlify.app/
+
+### :computer:Website: https://thiagodacoregio.github.io/Thiago-Portfolio/index.html
